@@ -1,0 +1,7 @@
+{
+  "API_KEY": "Your Google map API key",
+  "BOT_TOKEN": "Your telegram Token",
+  "chat_id":"Your chat_id",
+  "OPENWEATHERMAP_API_KEY":"Your openweather map API key"
+
+}
